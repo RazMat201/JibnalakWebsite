@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-16T16:10:01 EET" name="Default suite" finished-at="2025-06-16T16:13:29 EET" duration-ms="207462">
+  <suite started-at="2025-06-23T22:11:16 EET" name="Default suite" finished-at="2025-06-23T22:14:35 EET" duration-ms="198751">
     <groups>
     </groups>
-    <test started-at="2025-06-16T16:10:01 EET" name="Default test" finished-at="2025-06-16T16:13:29 EET" duration-ms="207462">
+    <test started-at="2025-06-23T22:11:16 EET" name="Default test" finished-at="2025-06-23T22:14:35 EET" duration-ms="198751">
       <class name="MyTests.MainTestCases">
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:01 EET" name="SetUp" finished-at="2025-06-16T16:10:06 EET" duration-ms="4694" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:11:16 EET" name="SetUp" finished-at="2025-06-23T22:11:22 EET" duration-ms="6530" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="HomepageAccessibility()[pri:1, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:06 EET" name="HomepageAccessibility" finished-at="2025-06-16T16:10:06 EET" duration-ms="170" status="PASS">
+        <test-method signature="HomepageAccessibility()[pri:1, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:11:22 EET" name="HomepageAccessibility" finished-at="2025-06-23T22:11:26 EET" duration-ms="3144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomepageAccessibility -->
-        <test-method signature="ProductSearchFunctionality()[pri:2, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:06 EET" name="ProductSearchFunctionality" finished-at="2025-06-16T16:10:11 EET" duration-ms="4521" status="PASS">
+        <test-method signature="ProductSearchFunctionality()[pri:2, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:11:26 EET" name="ProductSearchFunctionality" finished-at="2025-06-23T22:11:33 EET" duration-ms="7401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProductSearchFunctionality -->
-        <test-method signature="ViewingProductDetails()[pri:3, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:11 EET" name="ViewingProductDetails" finished-at="2025-06-16T16:10:27 EET" duration-ms="16228" status="PASS">
+        <test-method signature="ViewingProductDetails()[pri:3, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:11:33 EET" name="ViewingProductDetails" finished-at="2025-06-23T22:11:55 EET" duration-ms="21757" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViewingProductDetails -->
-        <test-method signature="PrivacyPolicyAccessibility()[pri:4, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:27 EET" name="PrivacyPolicyAccessibility" finished-at="2025-06-16T16:10:32 EET" duration-ms="4642" status="PASS">
+        <test-method signature="PrivacyPolicyAccessibility()[pri:4, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:11:55 EET" name="PrivacyPolicyAccessibility" finished-at="2025-06-23T22:12:02 EET" duration-ms="7200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrivacyPolicyAccessibility -->
-        <test-method signature="FilteringSearchResults()[pri:5, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:32 EET" name="FilteringSearchResults" finished-at="2025-06-16T16:10:35 EET" duration-ms="3201" status="PASS">
+        <test-method signature="FilteringSearchResults()[pri:5, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:12:02 EET" name="FilteringSearchResults" finished-at="2025-06-23T22:12:13 EET" duration-ms="10620" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FilteringSearchResults -->
-        <test-method signature="AddingProductstoCart()[pri:6, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:10:35 EET" name="AddingProductstoCart" finished-at="2025-06-16T16:12:12 EET" duration-ms="96941" status="PASS">
+        <test-method signature="AddingProductstoCart()[pri:6, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:12:13 EET" name="AddingProductstoCart" finished-at="2025-06-23T22:13:34 EET" duration-ms="81133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddingProductstoCart -->
-        <test-method signature="ViewingandModifyingtheShoppingCart()[pri:7, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:12:12 EET" name="ViewingandModifyingtheShoppingCart" finished-at="2025-06-16T16:12:41 EET" duration-ms="29208" status="PASS">
+        <test-method signature="ViewingandModifyingtheShoppingCart()[pri:7, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:13:34 EET" name="ViewingandModifyingtheShoppingCart" finished-at="2025-06-23T22:14:07 EET" duration-ms="33066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViewingandModifyingtheShoppingCart -->
-        <test-method signature="ProceedingtoCheckout()[pri:8, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:12:41 EET" name="ProceedingtoCheckout" finished-at="2025-06-16T16:12:56 EET" duration-ms="14767" status="PASS">
+        <test-method signature="ProceedingtoCheckout()[pri:8, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:14:07 EET" name="ProceedingtoCheckout" finished-at="2025-06-23T22:14:17 EET" duration-ms="10388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProceedingtoCheckout -->
-        <test-method signature="LanguageSwitchFunctionlity()[pri:9, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:12:56 EET" name="LanguageSwitchFunctionlity" finished-at="2025-06-16T16:13:27 EET" duration-ms="30912" status="PASS">
+        <test-method signature="LanguageSwitchFunctionlity()[pri:9, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:14:17 EET" name="LanguageSwitchFunctionlity" finished-at="2025-06-23T22:14:32 EET" duration-ms="15353" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LanguageSwitchFunctionlity -->
-        <test-method signature="LogoandInfoVisibility()[pri:10, instance:MyTests.MainTestCases@77b14724]" started-at="2025-06-16T16:13:27 EET" name="LogoandInfoVisibility" finished-at="2025-06-16T16:13:29 EET" duration-ms="2119" status="PASS">
+        <test-method signature="LogoandInfoVisibility()[pri:10, instance:MyTests.MainTestCases@1b73be9f]" started-at="2025-06-23T22:14:32 EET" name="LogoandInfoVisibility" finished-at="2025-06-23T22:14:35 EET" duration-ms="2113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogoandInfoVisibility -->

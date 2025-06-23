@@ -5,8 +5,10 @@
     <classes>
       <class name="MyTests.MainTestCases">
         <methods>
-          <include name="LanguageSwitchFunctionlity"/>
           <include name="SetUp"/>
+          <include name="ProceedingtoCheckout"/>
+          <include name="AddingProductstoCart"/>
+          <include name="ViewingandModifyingtheShoppingCart"/>
         </methods>
       </class> <!-- MyTests.MainTestCases -->
     </classes>
